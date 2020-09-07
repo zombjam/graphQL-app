@@ -1,0 +1,27 @@
+/* ========================================================================
+  共用顏色變數
+ ========================================================================== */
+:root {
+  /* ----------------------------------------
+    主題色
+  ---------------------------------------- */
+  --main-color: #564aa3;
+  --main-color-deep: #382f72;
+  --linear-color: #7266ba;
+  // sidebar
+  --sidebar-bg: #3a3f51;
+  --sidebar-dark-bg: #363a4b;
+  --sidebar-active-item: #9289ca;
+  // form表單 focus 顏色
+  --form-focus: #673ab7;
+  // 表格的主要色系
+  --table-border: #5b4f86; // table border顏色
+  --table-deep-bg: #64598d; // 深色表格底色
+  // 盤表表格toggle箭頭
+  --game-toggle-bg: #8275b9;
+  --game-toggle-hover: #cdc0d8;
+  // 按鈕active
+  --btn-main-active: #7266ba; // 開賣中
+
+ 
+}

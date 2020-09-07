@@ -1,0 +1,6 @@
+query Rates {
+  rates(currency: "USD") {
+    currency
+    rate
+  }
+}

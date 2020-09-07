@@ -1,0 +1,111 @@
+@mixin flex($direction: row, $justify: center, $align: center, $wrap: nowrap) {
+  display: flex;
+  flex-direction: $direction;
+  justify-content: $justify;
+  align-items: $align;
+  flex-wrap: $wrap;
+}
+
+/* 用法 @include respond-to('尺寸(ex:sm,xs..)')*/
+$breakpoints: (
+  'ss': (
+    max-width: 359px
+  ),
+  'xs': (
+    max-width: 480px
+  ),
+  'sm': (
+    max-width: 576px
+  ),
+  'md': (
+    max-width: 768px
+  ),
+  'lg': (
+    max-width: 992px
+  ),
+  'xl': (
+    max-width: 1200px
+  )
+) !default;
+
+@mixin respond-to($breakpoint) {
+  @if map-has-key($breakpoints, $breakpoint) {
+    @media #{inspect(map-get($breakpoints, $breakpoint))} {
+      @content;
+    }
+  } @else {
+    @warn "Unfortunately, no value could be retrieved from `#{$breakpoint}`. "+"Available breakpoints are: #{map-keys($breakpoints)}.";
+  }
+}
+
+$breakpointsUp: (
+  'ss': (
+    max-width: 359px
+  ),
+  'xs': (
+    min-width: 480px
+  ),
+  'sm': (
+    min-width: 576px
+  ),
+  'md': (
+    min-width: 768px
+  ),
+  'lg': (
+    min-width: 992px
+  ),
+  'xl': (
+    min-width: 1200px
+  ),
+  'xxl': (
+    min-width: 1800px
+  )
+) !default;
+
+@mixin respond-up-to($breakpoint) {
+  @if map-has-key($breakpointsUp, $breakpoint) {
+    @media #{inspect(map-get($breakpointsUp, $breakpoint))} {
+      @content;
+    }
+  } @else {
+    @warn "Unfortunately, no value could be retrieved from `#{$breakpoint}`. "+"Available breakpoints are: #{map-keys($breakpointsUp)}.";
+  }
+}
+
+@mixin keyframes($animation_name: fowards) {
+  @-webkit-keyframes #{$animation_name} {
+    @content;
+  }
+  @-moz-keyframes #{$animation_name} {
+    @content;
+  }
+  @-ms-keyframes #{$animation_name} {
+    @content;
+  }
+  @keyframes #{$animation_name} {
+    @content;
+  }
+}
+
+@mixin animation($delay, $duration, $animation, $iteration-count: forward, $direction: forward, $fillmode: fowards) {
+  -webkit-animation-delay: $delay;
+  -webkit-animation-duration: $duration;
+  -webkit-animation-name: $animation;
+  -webkit-animation-iteration-count: $iteration-count;
+  -webkit-animation-fill-mode: $fillmode;
+  -webkit-animation-direction: $direction;
+
+  -moz-animation-delay: $delay;
+  -moz-animation-duration: $duration;
+  -moz-animation-name: $animation;
+  -moz--animation-iteration-count: $iteration-count;
+  -moz-animation-fill-mode: $fillmode;
+  -moz-animation-direction: $direction;
+
+  animation-delay: $delay;
+  animation-duration: $duration;
+  animation-name: $animation;
+  animation-iteration-count: $iteration-count;
+  animation-fill-mode: $fillmode;
+  animation-direction: $direction;
+}

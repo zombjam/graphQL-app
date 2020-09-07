@@ -1,0 +1,993 @@
+{
+  "rates": {
+    "data": {
+      "rates": [
+        {
+          "currency": "AED",
+          "rate": "3.6732",
+          "__typename": "ExchangeRate"
+        },
+        {
+          "currency": "AFN",
+          "rate": "76.885705",
+          "__typename": "ExchangeRate"
+        },
+        {
+          "currency": "ALGO",
+          "rate": "2.6641800985746635",
+          "__typename": "ExchangeRate"
+        },
+        {
+          "currency": "ALL",
+          "rate": "104.902497",
+          "__typename": "ExchangeRate"
+        },
+        {
+          "currency": "AMD",
+          "rate": "481.616228",
+          "__typename": "ExchangeRate"
+        },
+        {
+          "currency": "ANG",
+          "rate": "1.79676",
+          "__typename": "ExchangeRate"
+        },
+        {
+          "currency": "AOA",
+          "rate": "621.948",
+          "__typename": "ExchangeRate"
+        },
+        {
+          "currency": "ARS",
+          "rate": "74.433",
+          "__typename": "ExchangeRate"
+        },
+        {
+          "currency": "ATOM",
+          "rate": "0.194344572927801",
+          "__typename": "ExchangeRate"
+        },
+        {
+          "currency": "AUD",
+          "rate": "1.372915",
+          "__typename": "ExchangeRate"
+        },
+        {
+          "currency": "AWG",
+          "rate": "1.8",
+          "__typename": "ExchangeRate"
+        },
+        {
+          "currency": "AZN",
+          "rate": "1.7025",
+          "__typename": "ExchangeRate"
+        },
+        {
+          "currency": "BAM",
+          "rate": "1.652477",
+          "__typename": "ExchangeRate"
+        },
+        {
+          "currency": "BAND",
+          "rate": "0.10562450488513336",
+          "__typename": "ExchangeRate"
+        },
+        {
+          "currency": "BAT",
+          "rate": "3.875097846220617",
+          "__typename": "ExchangeRate"
+        },
+        {
+          "currency": "BBD",
+          "rate": "2.0",
+          "__typename": "ExchangeRate"
+        },
+        {
+          "currency": "BCH",
+          "rate": "0.004399859204505456",
+          "__typename": "ExchangeRate"
+        },
+        {
+          "currency": "BDT",
+          "rate": "84.933196",
+          "__typename": "ExchangeRate"
+        },
+        {
+          "currency": "BGN",
+          "rate": "1.65769",
+          "__typename": "ExchangeRate"
+        },
+        {
+          "currency": "BHD",
+          "rate": "0.377166",
+          "__typename": "ExchangeRate"
+        },
+        {
+          "currency": "BIF",
+          "rate": "1932.224503",
+          "__typename": "ExchangeRate"
+        },
+        {
+          "currency": "BMD",
+          "rate": "1.0",
+          "__typename": "ExchangeRate"
+        },
+        {
+          "currency": "BND",
+          "rate": "1.365119",
+          "__typename": "ExchangeRate"
+        },
+        {
+          "currency": "BOB",
+          "rate": "6.921741",
+          "__typename": "ExchangeRate"
+        },
+        {
+          "currency": "BRL",
+          "rate": "5.3046",
+          "__typename": "ExchangeRate"
+        },
+        {
+          "currency": "BSD",
+          "rate": "1.0",
+          "__typename": "ExchangeRate"
+        },
+        {
+          "currency": "BSV",
+          "rate": "0.006085024165803925",
+          "__typename": "ExchangeRate"
+        },
+        {
+          "currency": "BTC",
+          "rate": "0.0000976766151927184",
+          "__typename": "ExchangeRate"
+        },
+        {
+          "currency": "BTN",
+          "rate": "73.170118",
+          "__typename": "ExchangeRate"
+        },
+        {
+          "currency": "BWP",
+          "rate": "11.452747",
+          "__typename": "ExchangeRate"
+        },
+        {
+          "currency": "BYN",
+          "rate": "2.636779",
+          "__typename": "ExchangeRate"
+        },
+        {
+          "currency": "BYR",
+          "rate": "26367.79",
+          "__typename": "ExchangeRate"
+        },
+        {
+          "currency": "BZD",
+          "rate": "2.017718",
+          "__typename": "ExchangeRate"
+        },
+        {
+          "currency": "CAD",
+          "rate": "1.308039",
+          "__typename": "ExchangeRate"
+        },
+        {
+          "currency": "CDF",
+          "rate": "1962.897083",
+          "__typename": "ExchangeRate"
+        },
+        {
+          "currency": "CGLD",
+          "rate": "0.2844545583842981",
+          "__typename": "ExchangeRate"
+        },
+        {
+          "currency": "CHF",
+          "rate": "0.91414",
+          "__typename": "ExchangeRate"
+        },
+        {
+          "currency": "CLF",
+          "rate": "0.02821",
+          "__typename": "ExchangeRate"
+        },
+        {
+          "currency": "CLP",
+          "rate": "771.599325",
+          "__typename": "ExchangeRate"
+        },
+        {
+          "currency": "CNH",
+          "rate": "6.834185",
+          "__typename": "ExchangeRate"
+        },
+        {
+          "currency": "CNY",
+          "rate": "6.8425",
+          "__typename": "ExchangeRate"
+        },
+        {
+          "currency": "COMP",
+          "rate": "0.005636184303226715",
+          "__typename": "ExchangeRate"
+        },
+        {
+          "currency": "COP",
+          "rate": "3695.700217",
+          "__typename": "ExchangeRate"
+        },
+        {
+          "currency": "CRC",
+          "rate": "596.937402",
+          "__typename": "ExchangeRate"
+        },
+        {
+          "currency": "CUC",
+          "rate": "1.0",
+          "__typename": "ExchangeRate"
+        },
+        {
+          "currency": "CVE",
+          "rate": "93.35",
+          "__typename": "ExchangeRate"
+        },
+        {
+          "currency": "CZK",
+          "rate": "22.3772",
+          "__typename": "ExchangeRate"
+        },
+        {
+          "currency": "DAI",
+          "rate": "0.9815093454412326",
+          "__typename": "ExchangeRate"
+        },
+        {
+          "currency": "DASH",
+          "rate": "0.014310143745393923",
+          "__typename": "ExchangeRate"
+        },
+        {
+          "currency": "DJF",
+          "rate": "178.197406",
+          "__typename": "ExchangeRate"
+        },
+        {
+          "currency": "DKK",
+          "rate": "6.287781",
+          "__typename": "ExchangeRate"
+        },
+        {
+          "currency": "DOP",
+          "rate": "58.4475",
+          "__typename": "ExchangeRate"
+        },
+        {
+          "currency": "DZD",
+          "rate": "128.349331",
+          "__typename": "ExchangeRate"
+        },
+        {
+          "currency": "EEK",
+          "rate": "14.613691",
+          "__typename": "ExchangeRate"
+        },
+        {
+          "currency": "EGP",
+          "rate": "15.7975",
+          "__typename": "ExchangeRate"
+        },
+        {
+          "currency": "EOS",
+          "rate": "0.343878954607978",
+          "__typename": "ExchangeRate"
+        },
+        {
+          "currency": "ERN",
+          "rate": "15.003119",
+          "__typename": "ExchangeRate"
+        },
+        {
+          "currency": "ETB",
+          "rate": "36.416857",
+          "__typename": "ExchangeRate"
+        },
+        {
+          "currency": "ETC",
+          "rate": "0.17044486108743823",
+          "__typename": "ExchangeRate"
+        },
+        {
+          "currency": "ETH",
+          "rate": "0.0028353109627298374",
+          "__typename": "ExchangeRate"
+        },
+        {
+          "currency": "EUR",
+          "rate": "0.845118",
+          "__typename": "ExchangeRate"
+        },
+        {
+          "currency": "FJD",
+          "rate": "2.10265",
+          "__typename": "ExchangeRate"
+        },
+        {
+          "currency": "FKP",
+          "rate": "0.755116",
+          "__typename": "ExchangeRate"
+        },
+        {
+          "currency": "GBP",
+          "rate": "0.755116",
+          "__typename": "ExchangeRate"
+        },
+        {
+          "currency": "GEL",
+          "rate": "3.075",
+          "__typename": "ExchangeRate"
+        },
+        {
+          "currency": "GGP",
+          "rate": "0.755116",
+          "__typename": "ExchangeRate"
+        },
+        {
+          "currency": "GHS",
+          "rate": "5.783157",
+          "__typename": "ExchangeRate"
+        },
+        {
+          "currency": "GIP",
+          "rate": "0.755116",
+          "__typename": "ExchangeRate"
+        },
+        {
+          "currency": "GMD",
+          "rate": "51.82",
+          "__typename": "ExchangeRate"
+        },
+        {
+          "currency": "GNF",
+          "rate": "9676.982098",
+          "__typename": "ExchangeRate"
+        },
+        {
+          "currency": "GTQ",
+          "rate": "7.73764",
+          "__typename": "ExchangeRate"
+        },
+        {
+          "currency": "GYD",
+          "rate": "209.331956",
+          "__typename": "ExchangeRate"
+        },
+        {
+          "currency": "HKD",
+          "rate": "7.75045",
+          "__typename": "ExchangeRate"
+        },
+        {
+          "currency": "HNL",
+          "rate": "24.676192",
+          "__typename": "ExchangeRate"
+        },
+        {
+          "currency": "HRK",
+          "rate": "6.3698",
+          "__typename": "ExchangeRate"
+        },
+        {
+          "currency": "HTG",
+          "rate": "113.285827",
+          "__typename": "ExchangeRate"
+        },
+        {
+          "currency": "HUF",
+          "rate": "304.627667",
+          "__typename": "ExchangeRate"
+        },
+        {
+          "currency": "IDR",
+          "rate": "14765.876854",
+          "__typename": "ExchangeRate"
+        },
+        {
+          "currency": "ILS",
+          "rate": "3.37294",
+          "__typename": "ExchangeRate"
+        },
+        {
+          "currency": "IMP",
+          "rate": "0.755116",
+          "__typename": "ExchangeRate"
+        },
+        {
+          "currency": "INR",
+          "rate": "73.129994",
+          "__typename": "ExchangeRate"
+        },
+        {
+          "currency": "IQD",
+          "rate": "1194.981248",
+          "__typename": "ExchangeRate"
+        },
+        {
+          "currency": "ISK",
+          "rate": "139.2",
+          "__typename": "ExchangeRate"
+        },
+        {
+          "currency": "JEP",
+          "rate": "0.755116",
+          "__typename": "ExchangeRate"
+        },
+        {
+          "currency": "JMD",
+          "rate": "147.895114",
+          "__typename": "ExchangeRate"
+        },
+        {
+          "currency": "JOD",
+          "rate": "0.709",
+          "__typename": "ExchangeRate"
+        },
+        {
+          "currency": "JPY",
+          "rate": "106.2325",
+          "__typename": "ExchangeRate"
+        },
+        {
+          "currency": "KES",
+          "rate": "108.4",
+          "__typename": "ExchangeRate"
+        },
+        {
+          "currency": "KGS",
+          "rate": "78.233368",
+          "__typename": "ExchangeRate"
+        },
+        {
+          "currency": "KHR",
+          "rate": "4111.0487",
+          "__typename": "ExchangeRate"
+        },
+        {
+          "currency": "KMF",
+          "rate": "416.950166",
+          "__typename": "ExchangeRate"
+        },
+        {
+          "currency": "KNC",
+          "rate": "0.7685213648939441",
+          "__typename": "ExchangeRate"
+        },
+        {
+          "currency": "KRW",
+          "rate": "1187.59",
+          "__typename": "ExchangeRate"
+        },
+        {
+          "currency": "KWD",
+          "rate": "0.306105",
+          "__typename": "ExchangeRate"
+        },
+        {
+          "currency": "KYD",
+          "rate": "0.834175",
+          "__typename": "ExchangeRate"
+        },
+        {
+          "currency": "KZT",
+          "rate": "421.354255",
+          "__typename": "ExchangeRate"
+        },
+        {
+          "currency": "LAK",
+          "rate": "9116.98368",
+          "__typename": "ExchangeRate"
+        },
+        {
+          "currency": "LBP",
+          "rate": "1513.477402",
+          "__typename": "ExchangeRate"
+        },
+        {
+          "currency": "LINK",
+          "rate": "0.0789840440383436",
+          "__typename": "ExchangeRate"
+        },
+        {
+          "currency": "LKR",
+          "rate": "185.308025",
+          "__typename": "ExchangeRate"
+        },
+        {
+          "currency": "LRD",
+          "rate": "199.275036",
+          "__typename": "ExchangeRate"
+        },
+        {
+          "currency": "LSL",
+          "rate": "16.584218",
+          "__typename": "ExchangeRate"
+        },
+        {
+          "currency": "LTC",
+          "rate": "0.020721094073767096",
+          "__typename": "ExchangeRate"
+        },
+        {
+          "currency": "LTL",
+          "rate": "3.224845",
+          "__typename": "ExchangeRate"
+        },
+        {
+          "currency": "LVL",
+          "rate": "0.656261",
+          "__typename": "ExchangeRate"
+        },
+        {
+          "currency": "LYD",
+          "rate": "1.363496",
+          "__typename": "ExchangeRate"
+        },
+        {
+          "currency": "MAD",
+          "rate": "9.202036",
+          "__typename": "ExchangeRate"
+        },
+        {
+          "currency": "MDL",
+          "rate": "16.616408",
+          "__typename": "ExchangeRate"
+        },
+        {
+          "currency": "MGA",
+          "rate": "3854.837326",
+          "__typename": "ExchangeRate"
+        },
+        {
+          "currency": "MKD",
+          "rate": "52.109078",
+          "__typename": "ExchangeRate"
+        },
+        {
+          "currency": "MKR",
+          "rate": "0.0018287617033891162",
+          "__typename": "ExchangeRate"
+        },
+        {
+          "currency": "MMK",
+          "rate": "1332.803462",
+          "__typename": "ExchangeRate"
+        },
+        {
+          "currency": "MNT",
+          "rate": "2852.248062",
+          "__typename": "ExchangeRate"
+        },
+        {
+          "currency": "MOP",
+          "rate": "7.99096",
+          "__typename": "ExchangeRate"
+        },
+        {
+          "currency": "MRO",
+          "rate": "357.0",
+          "__typename": "ExchangeRate"
+        },
+        {
+          "currency": "MTL",
+          "rate": "0.683738",
+          "__typename": "ExchangeRate"
+        },
+        {
+          "currency": "MUR",
+          "rate": "39.809997",
+          "__typename": "ExchangeRate"
+        },
+        {
+          "currency": "MVR",
+          "rate": "15.41",
+          "__typename": "ExchangeRate"
+        },
+        {
+          "currency": "MWK",
+          "rate": "746.841443",
+          "__typename": "ExchangeRate"
+        },
+        {
+          "currency": "MXN",
+          "rate": "21.557571",
+          "__typename": "ExchangeRate"
+        },
+        {
+          "currency": "MYR",
+          "rate": "4.1485",
+          "__typename": "ExchangeRate"
+        },
+        {
+          "currency": "MZN",
+          "rate": "71.767993",
+          "__typename": "ExchangeRate"
+        },
+        {
+          "currency": "NAD",
+          "rate": "16.62",
+          "__typename": "ExchangeRate"
+        },
+        {
+          "currency": "NGN",
+          "rate": "386.126722",
+          "__typename": "ExchangeRate"
+        },
+        {
+          "currency": "NIO",
+          "rate": "34.929218",
+          "__typename": "ExchangeRate"
+        },
+        {
+          "currency": "NMR",
+          "rate": "0.02543053902570519",
+          "__typename": "ExchangeRate"
+        },
+        {
+          "currency": "NOK",
+          "rate": "8.921714",
+          "__typename": "ExchangeRate"
+        },
+        {
+          "currency": "NPR",
+          "rate": "117.071573",
+          "__typename": "ExchangeRate"
+        },
+        {
+          "currency": "NZD",
+          "rate": "1.49108",
+          "__typename": "ExchangeRate"
+        },
+        {
+          "currency": "OMG",
+          "rate": "0.26136957658128596",
+          "__typename": "ExchangeRate"
+        },
+        {
+          "currency": "OMR",
+          "rate": "0.38498",
+          "__typename": "ExchangeRate"
+        },
+        {
+          "currency": "OXT",
+          "rate": "2.937720329024677",
+          "__typename": "ExchangeRate"
+        },
+        {
+          "currency": "PAB",
+          "rate": "1.0",
+          "__typename": "ExchangeRate"
+        },
+        {
+          "currency": "PEN",
+          "rate": "3.554063",
+          "__typename": "ExchangeRate"
+        },
+        {
+          "currency": "PGK",
+          "rate": "3.534546",
+          "__typename": "ExchangeRate"
+        },
+        {
+          "currency": "PHP",
+          "rate": "48.604374",
+          "__typename": "ExchangeRate"
+        },
+        {
+          "currency": "PKR",
+          "rate": "165.861009",
+          "__typename": "ExchangeRate"
+        },
+        {
+          "currency": "PLN",
+          "rate": "3.766834",
+          "__typename": "ExchangeRate"
+        },
+        {
+          "currency": "PYG",
+          "rate": "6997.919455",
+          "__typename": "ExchangeRate"
+        },
+        {
+          "currency": "QAR",
+          "rate": "3.644583",
+          "__typename": "ExchangeRate"
+        },
+        {
+          "currency": "REP",
+          "rate": "0.0578368999421631",
+          "__typename": "ExchangeRate"
+        },
+        {
+          "currency": "RON",
+          "rate": "4.1004",
+          "__typename": "ExchangeRate"
+        },
+        {
+          "currency": "RSD",
+          "rate": "99.28",
+          "__typename": "ExchangeRate"
+        },
+        {
+          "currency": "RUB",
+          "rate": "75.3746",
+          "__typename": "ExchangeRate"
+        },
+        {
+          "currency": "RWF",
+          "rate": "968.557314",
+          "__typename": "ExchangeRate"
+        },
+        {
+          "currency": "SAR",
+          "rate": "3.7505",
+          "__typename": "ExchangeRate"
+        },
+        {
+          "currency": "SBD",
+          "rate": "8.251634",
+          "__typename": "ExchangeRate"
+        },
+        {
+          "currency": "SCR",
+          "rate": "17.95441",
+          "__typename": "ExchangeRate"
+        },
+        {
+          "currency": "SEK",
+          "rate": "8.737432",
+          "__typename": "ExchangeRate"
+        },
+        {
+          "currency": "SGD",
+          "rate": "1.36512",
+          "__typename": "ExchangeRate"
+        },
+        {
+          "currency": "SHP",
+          "rate": "0.755116",
+          "__typename": "ExchangeRate"
+        },
+        {
+          "currency": "SLL",
+          "rate": "9887.822835",
+          "__typename": "ExchangeRate"
+        },
+        {
+          "currency": "SOS",
+          "rate": "579.092902",
+          "__typename": "ExchangeRate"
+        },
+        {
+          "currency": "SRD",
+          "rate": "7.458",
+          "__typename": "ExchangeRate"
+        },
+        {
+          "currency": "SSP",
+          "rate": "130.26",
+          "__typename": "ExchangeRate"
+        },
+        {
+          "currency": "STD",
+          "rate": "20973.366047",
+          "__typename": "ExchangeRate"
+        },
+        {
+          "currency": "SVC",
+          "rate": "8.758285",
+          "__typename": "ExchangeRate"
+        },
+        {
+          "currency": "SZL",
+          "rate": "16.579882",
+          "__typename": "ExchangeRate"
+        },
+        {
+          "currency": "THB",
+          "rate": "31.33",
+          "__typename": "ExchangeRate"
+        },
+        {
+          "currency": "TJS",
+          "rate": "10.325162",
+          "__typename": "ExchangeRate"
+        },
+        {
+          "currency": "TMT",
+          "rate": "3.51",
+          "__typename": "ExchangeRate"
+        },
+        {
+          "currency": "TND",
+          "rate": "2.73975",
+          "__typename": "ExchangeRate"
+        },
+        {
+          "currency": "TOP",
+          "rate": "2.272561",
+          "__typename": "ExchangeRate"
+        },
+        {
+          "currency": "TRY",
+          "rate": "7.439425",
+          "__typename": "ExchangeRate"
+        },
+        {
+          "currency": "TTD",
+          "rate": "6.778419",
+          "__typename": "ExchangeRate"
+        },
+        {
+          "currency": "TWD",
+          "rate": "29.329899",
+          "__typename": "ExchangeRate"
+        },
+        {
+          "currency": "TZS",
+          "rate": "2322.273564",
+          "__typename": "ExchangeRate"
+        },
+        {
+          "currency": "UAH",
+          "rate": "27.744437",
+          "__typename": "ExchangeRate"
+        },
+        {
+          "currency": "UGX",
+          "rate": "3691.633312",
+          "__typename": "ExchangeRate"
+        },
+        {
+          "currency": "USD",
+          "rate": "1.0",
+          "__typename": "ExchangeRate"
+        },
+        {
+          "currency": "USDC",
+          "rate": "1.0",
+          "__typename": "ExchangeRate"
+        },
+        {
+          "currency": "UYU",
+          "rate": "42.604356",
+          "__typename": "ExchangeRate"
+        },
+        {
+          "currency": "UZS",
+          "rate": "10277.820951",
+          "__typename": "ExchangeRate"
+        },
+        {
+          "currency": "VEF",
+          "rate": "248487.642241",
+          "__typename": "ExchangeRate"
+        },
+        {
+          "currency": "VES",
+          "rate": "338382.972171",
+          "__typename": "ExchangeRate"
+        },
+        {
+          "currency": "VND",
+          "rate": "23210.629745",
+          "__typename": "ExchangeRate"
+        },
+        {
+          "currency": "VUV",
+          "rate": "112.704036",
+          "__typename": "ExchangeRate"
+        },
+        {
+          "currency": "WST",
+          "rate": "2.630422",
+          "__typename": "ExchangeRate"
+        },
+        {
+          "currency": "XAF",
+          "rate": "554.361173",
+          "__typename": "ExchangeRate"
+        },
+        {
+          "currency": "XAG",
+          "rate": "0.03694128",
+          "__typename": "ExchangeRate"
+        },
+        {
+          "currency": "XAU",
+          "rate": "0.00051541",
+          "__typename": "ExchangeRate"
+        },
+        {
+          "currency": "XCD",
+          "rate": "2.70255",
+          "__typename": "ExchangeRate"
+        },
+        {
+          "currency": "XDR",
+          "rate": "0.706724",
+          "__typename": "ExchangeRate"
+        },
+        {
+          "currency": "XLM",
+          "rate": "12.805982955236686",
+          "__typename": "ExchangeRate"
+        },
+        {
+          "currency": "XOF",
+          "rate": "554.361173",
+          "__typename": "ExchangeRate"
+        },
+        {
+          "currency": "XPD",
+          "rate": "0.00043234",
+          "__typename": "ExchangeRate"
+        },
+        {
+          "currency": "XPF",
+          "rate": "100.849422",
+          "__typename": "ExchangeRate"
+        },
+        {
+          "currency": "XPT",
+          "rate": "0.00109995",
+          "__typename": "ExchangeRate"
+        },
+        {
+          "currency": "XRP",
+          "rate": "4.158868787689748",
+          "__typename": "ExchangeRate"
+        },
+        {
+          "currency": "XTZ",
+          "rate": "0.3927806909012353",
+          "__typename": "ExchangeRate"
+        },
+        {
+          "currency": "YER",
+          "rate": "250.399984",
+          "__typename": "ExchangeRate"
+        },
+        {
+          "currency": "ZAR",
+          "rate": "16.595399",
+          "__typename": "ExchangeRate"
+        },
+        {
+          "currency": "ZEC",
+          "rate": "0.01710717646052519",
+          "__typename": "ExchangeRate"
+        },
+        {
+          "currency": "ZMK",
+          "rate": "5253.075255",
+          "__typename": "ExchangeRate"
+        },
+        {
+          "currency": "ZMW",
+          "rate": "19.644131",
+          "__typename": "ExchangeRate"
+        },
+        {
+          "currency": "ZRX",
+          "rate": "2.11720418952365",
+          "__typename": "ExchangeRate"
+        },
+        {
+          "currency": "ZWL",
+          "rate": "322.0",
+          "__typename": "ExchangeRate"
+        }
+      ]
+    }
+  }
+}
