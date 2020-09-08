@@ -22,7 +22,8 @@ export class RatesService {
   }
 
   private getRatesGQL(): Observable<Rates.RateModel> {
-    return this.GQL.watch().valueChanges.pipe(
+    const currency = 'USD';
+    return this.GQL.watch({ currency }).valueChanges.pipe(
       map((result: ApolloQueryResult<RatesQuery>) => ({ rates: result.data?.rates ?? [], loading: result.loading, error: result.error }))
     );
   }

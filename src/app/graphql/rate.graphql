@@ -1,5 +1,5 @@
-query Rates {
-  rates(currency: "USD") {
+query Rates($currency: String!) {
+  rates(currency: $currency) {
     currency
     rate
   }

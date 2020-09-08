@@ -35,15 +35,17 @@ export enum CacheControlScope {
   Private = 'PRIVATE',
 }
 
-export type RatesQueryVariables = Exact<{ [key: string]: never }>;
+export type RatesQueryVariables = Exact<{
+  currency: Scalars['String'];
+}>;
 
 export type RatesQuery = { __typename?: 'Query' } & {
   rates?: Maybe<Array<Maybe<{ __typename?: 'ExchangeRate' } & Pick<ExchangeRate, 'currency' | 'rate'>>>>;
 };
 
 export const RatesDocument = gql`
-  query Rates {
-    rates(currency: "USD") {
+  query Rates($currency: String!) {
+    rates(currency: $currency) {
       currency
       rate
     }
